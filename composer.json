@@ -1,0 +1,17 @@
+{
+    "name": "dbrisinajumi/d2mailer",
+    "description": "Send Email to user",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "keywords": ["yii", "email"],
+    "authors": [
+        {
+            "name": "Uldis Nelsons",
+            "email": "uldis@weberp.lv",
+            "homepage": "http://www.weberp.lv/"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": ">=v5.*"
+    }
+}
