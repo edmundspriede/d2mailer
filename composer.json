@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "swiftmailer/swiftmailer": ">=v5.*"
+        "swiftmailer/swiftmailer": "5.3.1"
     }
 }
